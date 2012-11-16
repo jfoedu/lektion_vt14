@@ -1,0 +1,18 @@
+#nr1,#nr2,#nr3,#nr4 {
+  border: 1px solid #e00;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  float: left;
+}
+
+#main {
+  width: 500px;
+  border: 1px solid black;
+  background-color: #ccc;
+  margin: auto;
+}
+
+.clear {
+  clear: both;
+}
